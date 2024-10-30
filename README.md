@@ -16,12 +16,15 @@ This is a simple Flutter app that simulates a dice roll. When the "Roll Dice" bu
 
 **Screenshots:**
 
-![Screenshot 2024-10-30 203814](https://github.com/user-attachments/assets/9b3a3344-4a99-4186-b156-809446d24c2d)
+
+![Screenshot 2024-10-30 203814](https://github.com/user-attachments/assets/c8382091-7742-4c3f-9cb5-ead20120ca59)
+
 
 *Description: The initial screen of the app with the "Roll Dice" button.*
 
 
-![Screenshot 2024-10-30 204528](https://github.com/user-attachments/assets/98bfaae3-7d41-4150-bb11-0317f53a831b)
+
+![Screenshot 2024-10-30 204528](https://github.com/user-attachments/assets/0b711960-bfab-4c72-910c-759c772d1188)
 
 
 *Description: The app screen after rolling the dice, displaying a random number.*
